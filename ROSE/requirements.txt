@@ -1,0 +1,16 @@
+torch>=1.13.0
+torchvision>=0.14.0
+torchaudio>=0.13.0
+mmengine==0.8.4
+mmcv==2.0.1
+mmdet==3.1.0
+mmdet3d==1.2.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.8.0
+opencv-python>=4.6.0
+Pillow>=9.0.0
+pyyaml>=6.0
+pandas>=1.4.0
+seaborn>=0.11.0
+tqdm>=4.64.0
